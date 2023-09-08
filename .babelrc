@@ -1,0 +1,6 @@
+// .babelrc
+{
+    "presets": ["@babel/preset-env"]
+    // You can add more plugins and presets here as needed
+  }
+  
